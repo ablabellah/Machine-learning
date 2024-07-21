@@ -1,0 +1,16 @@
+/* Reset CSS */
+. {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Background dark color */
+.bg-dark {
+    background-color: #75767B;
+}
+
+/* Margin top 50 */
+.mt-50 {
+    margin-top: 50px;
+}
